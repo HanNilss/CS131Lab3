@@ -5,7 +5,7 @@
  * Module 3 lab
  * CS1313ON
  */
-package arraylist;
+
 
 public class Square {
 

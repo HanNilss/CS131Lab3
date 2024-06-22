@@ -6,7 +6,6 @@
  * CS1313ON
  */
 
-package arraylist;
 
 public class PointThreeD {
 
